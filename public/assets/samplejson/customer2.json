@@ -1,0 +1,12 @@
+{
+	"id": 2,
+	"name": "Siva Chinnam",
+	"email": "sivachinnam@test.com",
+	"phone": "22222222",
+	"city": "Columbus",
+	"state": "Ohio",
+	"country": "United States",
+	"organization": "Company 2",
+	"jobProfile": "Software Developer",
+	"hobbies": "Loves watching Netflix"
+}
